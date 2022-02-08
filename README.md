@@ -59,6 +59,9 @@ clone https://github.com/gauravPracto/FE04.git
 cd FE06
 npm install
 npm run serve
+
+will be running on http://localhost:3010/
+
 ```
 
 until finished
